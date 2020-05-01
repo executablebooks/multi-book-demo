@@ -1,0 +1,14 @@
+iframe {
+    width: 100%;
+    height: 100vh;
+    border: none;
+}
+
+.bd-content {
+    flex: 100%;
+    max-width: 100%;
+}
+
+.bd-sidebar, .bd-toc {
+    display: none;
+}

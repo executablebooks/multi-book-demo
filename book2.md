@@ -1,5 +1,5 @@
-# Book 2
+# [QuantEcon](https://executablebooks.github.io/quantecon-example/docs/index.html)
 
 ```{raw} html
-<iframe src="https://jupyterbook.org/intro.html" style="width: 100%; height: 100vh;"></iframe>
+<iframe src="https://executablebooks.github.io/quantecon-example/docs/index.html"></iframe>
 ```
